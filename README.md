@@ -1,4 +1,4 @@
-# login_auth
+# StarBucks Clone Flutter App
 
 A new Flutter project.
 
